@@ -9,7 +9,7 @@ const Header = () => {
     <div className="app-header">
       <div className="app-header-left">
         <a href="/">Home</a>
-        <a href="/search">Search</a>
+        <a href="/">Search</a>
       </div>
       <div className="app-header-right">
         <a href="/">Gmail</a>
