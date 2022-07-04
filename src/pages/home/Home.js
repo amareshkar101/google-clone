@@ -16,7 +16,7 @@ const Home = () => {
     event.preventDefault();
     appContext.updateSearchTerm(searchTerm);
     setSearchTerm('');
-    navigate('./search');
+    navigate('./search')
   };
 
   const inputChangeHandler = (event) => {

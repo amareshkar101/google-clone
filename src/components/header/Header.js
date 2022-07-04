@@ -12,8 +12,8 @@ const Header = () => {
         <a href="/search">Search</a>
       </div>
       <div className="app-header-right">
-        <a href="/gmail">Gmail</a>
-        <a href="/images">Images</a>
+        <a href="/">Gmail</a>
+        <a href="/">Images</a>
         <AppsIcon />
         <Avatar
           src=""
