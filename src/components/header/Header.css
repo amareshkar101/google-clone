@@ -15,15 +15,18 @@
   
   .app-header a:hover {
     color: darkcyan;
-    text-decoration: underline;
+    text-decoration: none;
   }
   
   .app-header-right {
     display: flex;
     align-items: center;
     justify-content: space-between;
+
   }
   
   .app-header-right > .MuiSvgIcon-root {
     margin-right: 20px;
   }
+
+ 

@@ -1,5 +1,4 @@
 import React from "react";
-// import { Link } from "react-router-dom";
 import AppsIcon from "@material-ui/icons/Apps";
 import { Avatar } from "@material-ui/core";
 import './Header.css';
@@ -9,7 +8,7 @@ const Header = () => {
     <div className="app-header">
       <div className="app-header-left">
         <a href="/">Home</a>
-        <a href="/">Search</a>
+        <a href="/search">Search</a>
       </div>
       <div className="app-header-right">
         <a href="/">Gmail</a>
